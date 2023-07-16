@@ -20,14 +20,18 @@ This repository contains my solutions for the KPMG Virtual Internship program on
 
 ### Task 1 - Data Quality Assignment:
 
-* Python code for data quality assessment.
-* Excel file for data quality assessment.
+* [Python code for data quality assessment.](https://github.com/DataAsh21/KPMG_Data_Analytics_Virtual_Internship_Project/blob/2edea5729a8914bb68cf69f7eaa85774666a1bd8/KPMG%20task1.ipynb)
+* [Excel file for data quality assessment.](https://github.com/DataAsh21/KPMG_Data_Analytics_Virtual_Internship_Project/blob/2edea5729a8914bb68cf69f7eaa85774666a1bd8/KPMG_VI_New_raw_data_update_final(T3).xlsx)
 ### Task 2 - Data Insights:
 
-* PowerPoint presentation for data insights.
+* [PowerPoint presentation for data insights.](https://github.com/DataAsh21/KPMG_Data_Analytics_Virtual_Internship_Project/blob/2edea5729a8914bb68cf69f7eaa85774666a1bd8/KPMG%20TASK%202.pptx)
   
 ### Task 3 - Data Insights and Presentations:
 
-* Power BI for data insights and presentations.
+* [Power BI for data insights and presentations.](https://github.com/DataAsh21/KPMG_Data_Analytics_Virtual_Internship_Project/blob/2edea5729a8914bb68cf69f7eaa85774666a1bd8/KPMG%20TASK%203%20DASHBOARD.pbix)
+
 Please refer to the respective folders for the solutions to each task.
+
+### Acknowledgements
+I would like to express my gratitude to KPMG and Forage for providing this virtual internship opportunity and the resources necessary to enhance my data analytics skills. This internship has been a valuable learning experience, allowing me to apply theoretical knowledge to a real-world project.
 
